@@ -37,7 +37,9 @@ Nenhum no momento.
 
 📫 Você pode me encontrar nas seguintes plataformas:
 
-- [GitHub](https://github.com/Feliciano-Miranda)
+-Email: mirandafeliciano161@gmail.com
+-GitHub: github.com/Feliciano-Miranda
+
 
 ---
 
