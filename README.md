@@ -24,11 +24,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularm
 - 🔐 **Cibersegurança**: Implementação de segurança em sistemas e análise de vulnerabilidades
 - 💻 **Desenvolvimento Full-Stack**: Criação de aplicações web robustas e escaláveis
 - 🧠 **Inteligência Artificial**: Uso de algoritmos de aprendizado de máquina para resolver problemas do mundo real
-- 🎨 **UI/UX Design**: Design de interfaces intuitivas e centradas no usuário
-
-## 📈 Estatísticas do GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Feliciano-Miranda&show_icons=true&theme=dracula)
+- 🎨 **UI/UX Design**: Design de interfaces intuitivas e centradas no usuário.
 
 ## 🛠 Projetos Recentes
 Nenhum no momento.
