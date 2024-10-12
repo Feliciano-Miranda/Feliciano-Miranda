@@ -28,7 +28,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais trabalho regularm
 
 ## 📈 Estatísticas do GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Feliciano-Miranda&show_icons=true&theme=dracula)
 
 ## 🛠 Projetos Recentes
 Nenhum no momento.
