@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou apaixonado por tecnologia e inovação, com uma curiosidade insaciável por aprender e resolver problemas complexos. Minha jornada no desenvolvimento começou há 3 anos.Atualmente, estou focado em um projeto pessoal de conexão por interesses, onde pessoas com hobbies semelhantes, como programação, games, anime e livros, podem se encontrar através de um sistema de matchmaking inteligente. Quando não estou codificando, adoro explorar novos animes, mergulhar em livros e aprender sobre as últimas tendências em tecnologia.
+Sou apaixonado por tecnologia e inovação, com uma curiosidade insaciável por aprender e resolver problemas complexos. Minha jornada no desenvolvimento começou há 3 anos.Atualmente, estou focado em um projeto pessoal. Quando não estou codificando, adoro explorar novos animes, mergulhar em livros e aprender sobre as últimas tendências em tecnologia.
 
 - 💼 Atualmente sou estudante de Ciencia da Computação
 - 📚 Explorando novas tecnologias como **AI**, **blockchain**, e **desenvolvimento full-stack**
