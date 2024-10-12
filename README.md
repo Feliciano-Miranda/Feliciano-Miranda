@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **resolução de problemas**. Com experiência em várias áreas, como **programação**, **cibersegurança**, **anime**, **livros** e **games**, estou sempre em busca de aprender e compartilhar conhecimento.
+Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **resolução de problemas**. Com interesse em várias áreas, como **programação**, **cibersegurança**, **anime**, **livros** e **games**, estou sempre em busca de aprender e compartilhar conhecimento.
 
 - 💼 Atualmente sou estudante de Ciencia da Computação
 - 📚 Explorando novas tecnologias como **AI**, **blockchain**, e **desenvolvimento full-stack**
